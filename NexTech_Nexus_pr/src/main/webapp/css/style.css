@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+    
+  .phone {
+    display: flex;
+    margin: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    padding: 10px;
+  }
+  
+  .phone-img  {
+    margin-right: 10px;
+    margin: 5px;
+    width: 240px;
+    height: 151px;
+  }
+   
+ 
+  
+  .product-info h2 {
+    margin: 0;
+  }
+  
+  .product-info p {
+    margin: 5px 0;
+  }
+  
+  button {
+    align-items : left;
+    background-color: #4CAF50;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px 0;
+    border-radius: 8px;
+    margin-top: 15px;
+    float: left;
+    
+    
+  }
+  
+  button:hover {
+    background-color: #031704;
+    color: white;
+    border:1px solid white;
+  }
+  p {
+    color: black;
+}
+  
